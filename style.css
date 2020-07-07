@@ -21,3 +21,37 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1 , .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(orange,yellow);
+}
+.cat2{
+    background-image: linear-gradient(#fd166e,#cc346e);
+}
+.cat3{
+    background-image: linear-gradient(blue,darkblue);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
